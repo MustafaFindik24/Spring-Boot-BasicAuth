@@ -24,6 +24,11 @@ Uygulamayı çalıştırdıktan sonra localhost:8080/auth (varsayılan host adre
 
 ![image](https://user-images.githubusercontent.com/91599453/220282617-89d52a17-309d-4fb5-884b-930fc8122a2a.png)
 
+Doğru şekilde giriş yaptıktan sonra aşağıdaki sayfalara erişimimiz sağlanmaktadır.
+
+![image](https://user-images.githubusercontent.com/91599453/220282884-1dc81671-0681-4cf4-ab99-7d6fde746847.png)
+![image](https://user-images.githubusercontent.com/91599453/220283008-b30c15ab-7750-40d7-9e77-049f4fbc862b.png)
+
 
 
 
